@@ -1,0 +1,4 @@
+#!/bin/sh
+# Deploy the virtual environment cloned from git.
+#-------------------------------------------------
+pip install -r requirements.txt
